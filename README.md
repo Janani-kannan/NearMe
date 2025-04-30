@@ -46,13 +46,8 @@ Execute the programs and publish them.
 
 ![Screenshot (152)](https://github.com/user-attachments/assets/3c62f937-129f-4924-b2da-5e04113fa262)
 
+
 ![Screenshot (153)](https://github.com/user-attachments/assets/7552d46c-cb69-4536-b766-b1b850c50f03)
-
-
-
-
-
-
 
 
 
